@@ -70,11 +70,11 @@ h1 {
 
 
 
-
 /* Insert CSS for shoes below this line*/
-
-
-
+#shoes_image {
+  left: 50px;
+  bottom: 100px;
+}
 
 /* Insert CSS for cane below this line*/
 
